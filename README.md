@@ -13,7 +13,7 @@
 
 <div style="background-color:black;color:white;padding:20px;">
 
-  <h2>Welcome to Anayra Industries</h2>
+  <h2>Welcome to Sanika's Industries</h2>
 
   <p>The IT industry is one which is not limited to software development alone. Technology can be applied in libraries, hospitals, banks, shops, prisons, hotels, airports, train stations and many other places through database management systems, or through custom-made software as seen fit.</p>
 </div> 
